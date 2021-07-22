@@ -1,3 +1,4 @@
+// using Bit Manipulation
 #include<bits/stdc++.h>
 using namespace std;
 bool getbit(int n,int pos)
